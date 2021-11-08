@@ -70,12 +70,12 @@
                  "value":"olympiadelabyrinthe6"
                 }, 
                 {
-                 "name":"jitsiRoomTrigger",
+                 "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
                 }, 
                 {
-                 "name":"jitsiRoomTriggerMessage",
+                 "name":"jitsiTriggerMessage",
                  "type":"string",
                  "value":"Press SPACE to enter in the game labyrinth 6!"
                 }],
