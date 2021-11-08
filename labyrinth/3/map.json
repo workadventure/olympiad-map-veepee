@@ -265,15 +265,6 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
-                {
-                 "id":84,
-                 "properties":[
-                        {
-                         "name":"exitUrl",
-                         "type":"string",
-                         "value":"https:\/\/www.google.com\/"
-                        }]
                 }],
          "tilewidth":32
         }, 

@@ -203,8 +203,8 @@
                  "type":"variable",
                  "visible":true,
                  "width":0,
-                 "x":86,
-                 "y":35
+                 "x":284,
+                 "y":118
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -287,15 +287,6 @@
                          "name":"collides",
                          "type":"bool",
                          "value":true
-                        }]
-                }, 
-                {
-                 "id":84,
-                 "properties":[
-                        {
-                         "name":"exitUrl",
-                         "type":"string",
-                         "value":"https:\/\/www.google.com\/"
                         }]
                 }],
          "tilewidth":32
