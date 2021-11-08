@@ -50,6 +50,16 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"olympiadelabyrinthe6"
+                }, 
+                {
+                 "name":"jitsiRoomTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiRoomTriggerMessage",
+                 "type":"string",
+                 "value":"Press SPACE to enter in the game labyrinth 6!"
                 }],
          "type":"tilelayer",
          "visible":true,
