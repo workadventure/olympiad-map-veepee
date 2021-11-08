@@ -123,6 +123,12 @@
          "id":21,
          "name":"exitRoom",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"\/@\/veepee\/brief-virtual-office\/gaminghome#race3"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,

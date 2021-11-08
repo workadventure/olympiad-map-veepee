@@ -115,7 +115,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/veepee\/brief-virtual-office\/home#labyrinth1"
+                 "value":"\/@\/veepee\/brief-virtual-office\/gaminghome#labyrinth1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -147,7 +147,7 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "height":123,
+                 "height":124,
                  "id":3,
                  "name":"scoring",
                  "properties":[
@@ -230,7 +230,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"WorkAdventure Labyrinth 6"
+         "value":"WorkAdventure Labyrinth 1"
         }, 
         {
          "name":"mapImage",
@@ -245,7 +245,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"Labyrinth6"
+         "value":"Labyrinth1"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
