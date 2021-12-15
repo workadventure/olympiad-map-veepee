@@ -133,7 +133,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/veepee\/brief-virtual-office\/race2"
+                 "value":"\/@\/veepee\/brief-virtual-office\/race3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -151,7 +151,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/veepee\/brief-virtual-office\/gaminghome#race1"
+                 "value":"\/@\/veepee\/brief-virtual-office\/santa"
                 }],
          "type":"tilelayer",
          "visible":true,
