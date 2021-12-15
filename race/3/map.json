@@ -55,7 +55,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"tcm-race"
+                 "value":"tcm-race3"
                 }],
          "type":"tilelayer",
          "visible":true,
